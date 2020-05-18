@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Ga-hou/utils#readme",
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.19.2",
+    "js-cookie": "^2.2.1"
   }
 }
